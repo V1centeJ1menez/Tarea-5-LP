@@ -52,4 +52,3 @@ Para ejecutar cada archivo, siga los siguientes pasos:
    ?- camino(p12, RES).
    RES = [p12, p5, p1, c];
    ```
-# Tarea-5-LP
