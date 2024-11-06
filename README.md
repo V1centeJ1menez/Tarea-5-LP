@@ -35,7 +35,7 @@ para ejecutar las consultas y verificar el funcionamiento de los predicados.
 Para ejecutar cada archivo, siga los siguientes pasos:
 
 1. Abra SWI-Prolog.
-2. Cargue el archivo correspondiente:
+2. Cargue el archivo correspondiente (P1 ó P2) desde file -> consult, o utilizando:
    ```prolog
    ?- consult('src/p1.pl').
    ```
